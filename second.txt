@@ -1,6 +1,7 @@
 working
 
 
+<<<<<<< HEAD
 
 
 
@@ -9,3 +10,6 @@ working
 
 
 hi how r u
+=======
+new change for 2nd project
+>>>>>>> 6ffa04a2882079a207c503cc603c6eabfb861ca9
