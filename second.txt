@@ -1,15 +1,4 @@
 working
+new change for 2nd proje
+these changes r 30 august
 
-
-<<<<<<< HEAD
-
-
-
-
-
-
-
-hi how r u
-=======
-new change for 2nd project
->>>>>>> 6ffa04a2882079a207c503cc603c6eabfb861ca9
